@@ -6,3 +6,4 @@ Research interests:
 - Object Detection
 - Data Imbalance
 - AI for Earth and Environment
+- Model Improvement During Deployment
