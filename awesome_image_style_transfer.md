@@ -13,3 +13,4 @@
 
 ## Photorealistic Style Transferring
 - [PCA-Based Knowledge Distillation Towards Lightweight and Content-Style Balanced Photorealistic Style Transfer Models](https://openaccess.thecvf.com/content/CVPR2022/html/Chiu_PCA-Based_Knowledge_Distillation_Towards_Lightweight_and_Content-Style_Balanced_Photorealistic_Style_CVPR_2022_paper.html) **CVPR 2022**
+- [Neural Preset for Color Style Transfer](https://arxiv.org/abs/2303.13511) **CVPR 2023**
