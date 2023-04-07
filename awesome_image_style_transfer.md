@@ -9,7 +9,7 @@
 - [StyTr2: Image Style Transfer With Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Deng_StyTr2_Image_Style_Transfer_With_Transformers_CVPR_2022_paper.html) **CVPR 2022**
 - [CLIPstyler: Image Style Transfer With a Single Text Condition](https://openaccess.thecvf.com/content/CVPR2022/html/Kwon_CLIPstyler_Image_Style_Transfer_With_a_Single_Text_Condition_CVPR_2022_paper.html) **CVPR 2022**
 - [Towards Ultra-Resolution Neural Style Transfer via Thumbnail Instance Normalization](https://arxiv.org/pdf/2103.11784.pdf) **AAAI 2022**
-
+- [Learning Dynamic Style Kernels for Artistic Style Transfer](https://arxiv.org/pdf/2304.00414.pdf) **arXiv 2023**
 
 ## Photorealistic Style Transferring
 - [PCA-Based Knowledge Distillation Towards Lightweight and Content-Style Balanced Photorealistic Style Transfer Models](https://openaccess.thecvf.com/content/CVPR2022/html/Chiu_PCA-Based_Knowledge_Distillation_Towards_Lightweight_and_Content-Style_Balanced_Photorealistic_Style_CVPR_2022_paper.html) **CVPR 2022**
