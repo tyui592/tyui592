@@ -1,12 +1,9 @@
 
 ### Machine Learning Researcher
 
-### Interest
-- (Real-World) Problem solving with machine learning
-- Improving the machine learning model during deployment
-- Image style transfer using deep neural networks
+### Interests
+- Image style transfer
 - Object detection
-- Data imbalance
 
 <div align=center>
 
