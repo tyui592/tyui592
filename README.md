@@ -1,5 +1,4 @@
-
-### Machine Learning Researcher
+## Minseong Kim
 
 ### Interests
 - Image style transfer
