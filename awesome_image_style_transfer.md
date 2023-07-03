@@ -12,9 +12,10 @@
 - [Learning Dynamic Style Kernels for Artistic Style Transfer](https://arxiv.org/pdf/2304.00414.pdf) **arXiv 2023**
 - [QuantArt: Quantizing Image Style Transfer Towards High Visual Fidelity](https://arxiv.org/pdf/2212.10431.pdf) **CVPR 2023**
 - [Master: Meta Style Transformer for Controllable Zero-Shot and Few-Shot Artistic Style Transfer](https://arxiv.org/pdf/2304.11818.pdf) **CVPR 2023**
-
+- [Preserving Structural Consistency in Arbitrary Artist and Artwork Style Transfer](https://ojs.aaai.org/index.php/AAAI/article/view/25384) **AAAI 2023**
 
 ## Photorealistic Style Transferring
+- [Swapping Autoencoder for Deep Image Manipulation](https://proceedings.neurips.cc/paper/2020/file/50905d7b2216bfeccb5b41016357176b-Paper.pdf) **NIPS 2020**
 - [PCA-Based Knowledge Distillation Towards Lightweight and Content-Style Balanced Photorealistic Style Transfer Models](https://openaccess.thecvf.com/content/CVPR2022/html/Chiu_PCA-Based_Knowledge_Distillation_Towards_Lightweight_and_Content-Style_Balanced_Photorealistic_Style_CVPR_2022_paper.html) **CVPR 2022**
 - [Neural Preset for Color Style Transfer](https://arxiv.org/abs/2303.13511) **CVPR 2023**
 - [CAP-VSTNet: Content Affinity Preserved Versatile Style Transfer](https://arxiv.org/pdf/2303.17867.pdf) **CVPR 2023**
