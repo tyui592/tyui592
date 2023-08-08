@@ -3,6 +3,7 @@
 ### Interests
 - Image style transfer
 - Object detection
+- Semi-supervised learning
 
 ### Paper Implementations
 * Image style transfer
@@ -15,6 +16,8 @@
   - Compact Image Style Transfer: Channel Pruning on a Single Training of Network, Sensors 2022. [Code](https://github.com/tyui592/compact_image_style_transfer)
 * Object detection
   - Objects as Points, arXiv 2019. [Code](https://github.com/tyui592/Real_Time_Helmet_Detection)
+* Semi-supervised learning
+  - FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence, NIPS 2020. [Code](https://github.com/tyui592/pytorch_FixMatch)
 * Etc. 
   - Pruning Filters for Efficient ConvNets, ICLR 2017. [Code](https://github.com/tyui592/Pruning_filters_for_efficient_convnets)
   - Learning Deep Features for Discriminative Localization, CVPR 2016. [Code](https://github.com/tyui592/class_activation_map)
