@@ -19,8 +19,9 @@
 * Semi-supervised learning
   - FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence, NIPS 2020. [Code](https://github.com/tyui592/pytorch_FixMatch)
   - FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling, NIPS 2021. [Code](https://github.com/tyui592/pytorch_FlexMatch)
-* Etc. 
+* Pruning
   - Pruning Filters for Efficient ConvNets, ICLR 2017. [Code](https://github.com/tyui592/Pruning_filters_for_efficient_convnets)
+* ETC
   - Learning Deep Features for Discriminative Localization, CVPR 2016. [Code](https://github.com/tyui592/class_activation_map)
   - Distilling the Knowledge in a Neural Network, NIPS 2014 Workshop. [Code](https://github.com/tyui592/knowledge_distillation)
 
