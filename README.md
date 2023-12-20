@@ -3,7 +3,6 @@
 ### Interests
 - Image style transfer
 - Object detection
-- Semi-supervised learning
 
 ### Paper Implementations
 * Image style transfer
