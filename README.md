@@ -20,6 +20,9 @@
   - FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling, NIPS 2021. [Code](https://github.com/tyui592/pytorch_FlexMatch)
 * Pruning
   - Pruning Filters for Efficient ConvNets, ICLR 2017. [Code](https://github.com/tyui592/Pruning_filters_for_efficient_convnets)
+* NLP
+  - Attention Is All You Need, NIPS 2017. [Code](https://github.com/tyui592/transformer_study)
+  - GPT [Code](https://github.com/tyui592/gpt_study)
 * ETC
   - Learning Deep Features for Discriminative Localization, CVPR 2016. [Code](https://github.com/tyui592/class_activation_map)
   - Distilling the Knowledge in a Neural Network, NIPS 2014 Workshop. [Code](https://github.com/tyui592/knowledge_distillation)
