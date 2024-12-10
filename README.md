@@ -1,10 +1,8 @@
 ## Minseong Kim
-
-### Interests
-- Image style transfer
-- Object detection
+_The devil is in the detail_
 
 ### Paper Implementations
+
 * Image style transfer
   - Image Style Transfer Using Convolutional Neural Networks, CVPR 2016. [Code](https://github.com/tyui592/neural_style_transfer)
   - Perceptual Losses for Real-Time Style Transfer and Super-Resolution, ECCV 2016. [Code](https://github.com/tyui592/Perceptual_loss_for_real_time_style_transfer)
@@ -26,6 +24,10 @@
 * ETC
   - Learning Deep Features for Discriminative Localization, CVPR 2016. [Code](https://github.com/tyui592/class_activation_map)
   - Distilling the Knowledge in a Neural Network, NIPS 2014 Workshop. [Code](https://github.com/tyui592/knowledge_distillation)
+
+### Survey
+- [Precipitation Nowcasting](https://github.com/tyui592/awesome-precipitation-nowcasting)
+- [Detection with Transformers](awesome-detection-transformer)
 
 <div align=center>
 
