@@ -27,7 +27,7 @@ _The devil is in the detail_
 
 ### Survey
 - [Precipitation Nowcasting](https://github.com/tyui592/awesome-precipitation-nowcasting)
-- [Detection with Transformers](awesome-detection-transformer)
+- [Detection with Transformers](https://github.com/tyui592/awesome-detection-transformer)
 
 <div align=center>
 
