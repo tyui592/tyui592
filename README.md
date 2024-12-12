@@ -1,8 +1,6 @@
 ## Minseong Kim
-_The devil is in the detail_
 
 ### Paper Implementations
-
 * Image style transfer
   - Image Style Transfer Using Convolutional Neural Networks, CVPR 2016. [Code](https://github.com/tyui592/neural_style_transfer)
   - Perceptual Losses for Real-Time Style Transfer and Super-Resolution, ECCV 2016. [Code](https://github.com/tyui592/Perceptual_loss_for_real_time_style_transfer)
