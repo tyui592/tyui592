@@ -10,6 +10,7 @@
   - Compact Image Style Transfer: Channel Pruning on a Single Training of Network, Sensors 2022. [Code](https://github.com/tyui592/compact_image_style_transfer)
 * Object detection
   - Objects as Points, arXiv 2019. [Code](https://github.com/tyui592/Real_Time_Helmet_Detection)
+  - DETR, Conditional DETR, DAB-DETR, DN-DETR, DINO. [Code](https://github.com/tyui592/DETR)
 * Semi-supervised learning
   - FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence, NIPS 2020. [Code](https://github.com/tyui592/pytorch_FixMatch)
   - FlexMatch: Boosting Semi-Supervised Learning with Curriculum Pseudo Labeling, NIPS 2021. [Code](https://github.com/tyui592/pytorch_FlexMatch)
