@@ -1,5 +1,13 @@
 # Minseong Kim
 
+## ⚒️ Technical Skills
+- 🐍 **Languages**: Python, SQL, Bash  
+- 📚 **Frameworks & Libraries**: PyTorch, TensorFlow, LibTorch, OpenCV, FastAPI  
+- ☁️ **Cloud & DevOps**: GCP, 🐳 Docker, Git  
+- 🗄️ **Databases**: MySQL, SQLite3  
+- 🤖 **ML/DL**: Detection, Recognition, Optimization (Pruning, ONNX, TensorRT), Triton, W&B  
+- 🔄 **Data Engineering**: ETL Pipeline Design, Data Lake Architecture
+
 ### 📚 Implementations
 <details>
 <summary> 🎨 Image Style Transfer</summary>
