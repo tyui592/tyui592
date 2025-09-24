@@ -71,4 +71,8 @@
 
 - **Knowledge Distillation**  
   Knowledge Distillation (NeurIPS 2014 Workshop) [Code](https://github.com/tyui592/knowledge_distillation)
+
+- **Side Proejcts**  
+  🎾 Hawk-Eye [Code](https://github.com/tyui592/hawk_eye)
+  
 </details>
